@@ -1,0 +1,9 @@
+streamlit
+torch
+torch_geometric
+scikit-learn
+networkx
+matplotlib
+plotly
+seaborn
+optuna
